@@ -66,11 +66,11 @@ section.imagem > p {
 }
 section#img01 {
     background-image: url(../imagens/avatar.jpg);
-    background-position: auto;
+    background-position: left center;
 }
 section#img02 {
     background-image: url(../imagens/naruto.jpg);
-    background-position: auto;
+    background-position: left center;
 }
 h2 {
     text-align: center;
